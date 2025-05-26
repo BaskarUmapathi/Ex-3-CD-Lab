@@ -1,6 +1,8 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-# NAME: BASKAR U
-# REG NO: 212223220013
+```
+NAME: BASKAR U
+REG NO: 212223220013
+```
 # Date: 
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
