@@ -3,7 +3,7 @@
 NAME: BASKAR U
 REG NO: 212223220013
 ```
-# Date: 
+# Date: 10/04/2025
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
